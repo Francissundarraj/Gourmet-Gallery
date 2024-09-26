@@ -34,7 +34,7 @@
  border: solid black 2px;
     margin-top: 10px;
     text-align: center;
-    width: 300px;
+    width: 200px;
     vertical-align: top;
    
 }
@@ -47,7 +47,7 @@
     font-weight: bolder;
 }
 .img-container img {
-    height: 600px;
+    height: 450px;
     max-width: 100%;  
 }
 
