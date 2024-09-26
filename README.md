@@ -30,7 +30,7 @@ A button to submit the form, enabling users to easily get in touch.
 
 # Technologies Used
 HTML for structure
-CSS (linked via style.css) for styling (not included in the snippet)
+CSS (linked via style.css) for styling
 
 # Usage
 Clone the repository or download the HTML file.
