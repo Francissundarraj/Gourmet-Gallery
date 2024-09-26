@@ -18,12 +18,10 @@ Titles and Descriptions: Each dish has a title and a brief description, highligh
 # Input Fields: Text fields for user input, with appropriate labels for clarity.
 # Submit Button: A button to submit the form, enabling users to easily get in touch.
 
-Technologies Used
+# Technologies Used
 HTML for structure
 CSS (linked via style.css) for styling (not included in the snippet)
-Usage
+# Usage
 Clone the repository or download the HTML file.
+
 Open the file in a web browser to view the restaurant menu and contact form.
-Customize the content as needed to reflect your own restaurant offerings.
-Note
-Ensure to create and link the appropriate CSS file to style the elements for a polished user experience.
