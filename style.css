@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.nav-bar__menu li {
+
+    position: relative;
+    display: inline-block;
+    word-spacing: 2px;
+}
+
+.nav-bar__menu li a {
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.container {
+    text-align: center;
+}
+
+
+.img-container {
+    display: inline-block;
+ border: solid black 2px;
+    margin-top: 10px;
+    text-align: center;
+    width: 300px;
+    vertical-align: top;
+   
+}
+
+.img-container__title {
+    margin-top: 2px;
+    word-spacing: 2px;
+    
+    font-size: larger;
+    font-weight: bolder;
+}
+.img-container img {
+    height: 600px;
+    max-width: 100%;  
+}
+
+.img-container__order {
+    color: white;
+    letter-spacing: 1px;
+    background-color: black;
+    padding: 5px;
+    margin-top: 10px;
+cursor: pointer;
+border-radius: 2px;
+border: none;
+transition: .5s ease;
+}
+.img-container__order:hover {
+    color: black;
+    background-color: #e74c3c;
+    font-weight: bold;
+
+}
+.contact-box {
+   background-color: black;
+   color: white;
+   padding: 20px; 
+   margin-top: 10px; 
+}
+
+.contact-box__title {
+    margin-bottom: 10px;
+   
+}
+
+.contact-box__table {
+    display: inline-block;
+    align-items: center;
+    text-align: left;
+}
+.contact-box__button {
+    padding: 2px 150px;
+    background-color: greenyellow;
+    border: none;
+    cursor: pointer;
+    transition: .5s ease;
+}
+.contact-box__button:hover {
+    background-color: aqua;
+    font-weight: bold;
+    border-radius: 5px;
+}
