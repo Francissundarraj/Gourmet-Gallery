@@ -21,8 +21,12 @@
 
     color: white;
     text-decoration: none;
-
 }
+.nav-bar__menu li a:hover {
+    color: red;
+    zoom: 1.2;   
+}
+
 
 .container {
     text-align: center;
@@ -90,10 +94,11 @@ transition: .3s ease;
     background-color: greenyellow;
     border: none;
     cursor: pointer;
-    transition: .3s ease;
+    transition: .2s ease;
 }
 .contact-box__button:hover {
     background-color: aqua;
     font-weight: bold;
     border-radius: 5px;
+     zoom: 1.2;
 }
