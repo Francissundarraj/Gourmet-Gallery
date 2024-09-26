@@ -1,2 +1,2 @@
 # Gourmet-Gallery
-A beautifully designed website that showcases our restaurant’s delectable offerings.
+A beautifully designed website that showcases the restaurant’s delectable offerings.
