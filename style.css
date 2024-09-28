@@ -22,11 +22,11 @@
 display: inline-block;
     color: white;
     text-decoration: none;
-   transition: transform 0.2s ease-in-out;
+  transition: transform 0.2s ease-in-out;
 
 }
 .nav-bar__menu li a:hover {
-    color: red;
+    color: green;
       transform: scale(1.2) translateZ(0);
 }
 
