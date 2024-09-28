@@ -21,11 +21,12 @@
 
     color: white;
     text-decoration: none;
-    transition:.3s ease-in-out;
+   transition: transform 0.2s ease-in-out;
+
 }
 .nav-bar__menu li a:hover {
     color: red;
-    transform:scale(1.2);   
+      transform: scale(1.2) translateZ(0)
 }
 
 
