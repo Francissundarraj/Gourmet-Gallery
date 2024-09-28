@@ -14,11 +14,12 @@
 
     position: relative;
     display: inline-block;
-    word-spacing: 2px;
+    padding: 6px;
+    
 }
 
 .nav-bar__menu li a {
-
+display: inline-block;
     color: white;
     text-decoration: none;
    transition: transform 0.2s ease-in-out;
